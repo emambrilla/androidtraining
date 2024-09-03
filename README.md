@@ -11,3 +11,5 @@ Repositorio con los ejercicios y contenidos vistos en el curso de Formación del
 
 **Ejercicios**
 - [Ejercicio 1](docs/ut01/ut1-ej1.pdf)
+- [Ejercicio 2](docs/ut01/ut1-ej2.pdf)
+- [Ejercicio 3](docs/ut01/ut1-ej3.pdf)
